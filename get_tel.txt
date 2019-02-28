@@ -1,0 +1,5 @@
+{"ssn":"123456789","f\u00f6rnamn":"test test","efternamn":"test","adress":"addresstest\u00e4 lgh 13","ort":"grad","telefonnummer":"07111111","ref":"leads","post_nr":"21000"}
+{"ssn":"123456789","f\u00f6rnamn":"test test","efternamn":"test","adress":"addresstest\u00e4 lgh 13","ort":"grad","telefonnummer":"07111111","ref":"leads","post_nr":"21000"}
+{"f\u00f6rnamn":"Susann","efternamn":"Ekolo","ref":"leads","kontaktperson tel":"","personnummer":"1231231231","telefonnummer":"","adress":"grad 18","ort":"ST","post_nr":"22222"}
+{"f\u00f6rnamn":"Susann","efternamn":"Ekolo","ref":"leads","kontaktperson tel":"","personnummer":"1231231231","telefonnummer":"333333","adress":"grad 18","ort":"ST","post_nr":"22222"}
+{"f\u00f6rnamn":"Susann","efternamn":"Ekolo","ref":"leads","kontaktperson tel":"","personnummer":"1231231231","telefonnummer":"12333333","adress":"grad 18","ort":"ST","post_nr":"22222"}
